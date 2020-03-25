@@ -1,3 +1,3 @@
 # hello-world
 First repository
-My name’s Neil and I’m curious about programing.
+Neil here, I’m curious about programing.
